@@ -4,8 +4,15 @@
   </a>
 </div>
 
+<br>
 
-<h2 align="center">⚡ Arsenal Tecnológico</h2>
+<div align="center">
+  Sou um desenvolvedor apaixonado por construir ecossistemas completos, com foco em Backend robusto utilizando <b>Java</b> e <b>Laravel</b>.
+</div>
+
+<br>
+
+## Tecnologias que eu utilizo
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,js,ts,react,html,css,docker,git,mysql,postgres&perline=7" />
@@ -13,53 +20,24 @@
 
 <br>
 
----
+## Projetos em destaque
 
-<h2 align="center">📊 Métricas</h2>
+### PetTrackerAPI 
+![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=for-the-badge&logo=php&logoColor=white)
+> API de rastreamento de pets.
+[Acessar Repositório](https://github.com/CortesMichael/PetTrackerAPI)
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CortesMichael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CortesMichael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+### EventifyAPI
+![Java](https://img.shields.io/badge/Java-Spring-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+> Sistema de gestão de eventos.
+[Acessar Repositório](https://github.com/CortesMichael/EventifyAPI)
 
-<br>
+### Ecommerce API 
+![Laravel](https://img.shields.io/badge/Laravel-API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+> API RESTful completa para e-commerce.
+[Acessar Repositório](https://github.com/CortesMichael/ecommerce-api-laravel)
 
----
-
-<h2 align="center">🚀 Projetos em Destaque</h2>
-
-<div align="center">
-  <a href="https://github.com/CortesMichael/PetTrackerAPI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CortesMichael&repo=PetTrackerAPI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/CortesMichael/EventifyAPI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CortesMichael&repo=EventifyAPI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/CortesMichael/ecommerce-api-laravel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CortesMichael&repo=ecommerce-api-laravel&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<br>
-
----
-
-<h2 align="center">🐍 Contribuições</h2>
-
-<div align="center">
-  <img src="https://github.com/CortesMichael/CortesMichael/blob/output/snake.svg" alt="Snake Animation" width="100%">
-</div>
-
-<br>
-
----
-
-<h2 align="center">🌐 Conecte-se Comigo</h2>
+## Conecte-se comigo!
 
 <div align="center">
   <a href="mailto:michaelcortes011@gmail.com">
@@ -69,3 +47,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github.com/CortesMichael/CortesMichael/blob/output/snake.svg" alt="Snake Animation" width="100%">
+</div>
+
+<br>
