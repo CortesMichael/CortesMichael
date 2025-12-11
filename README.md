@@ -52,7 +52,7 @@
 <h2 align="center">🐍 Contribuições</h2>
 
 <div align="center">
-  <img src="https://github.com/CortesMichael/CortesMichael/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
+  <img src="https://github.com/CortesMichael/CortesMichael/blob/output/snake.svg" alt="Snake Animation" width="100%">
 </div>
 
 <br>
